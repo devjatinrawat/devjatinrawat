@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
+
 <h1 align="center">Hi 👋, I'm Jatin Rawat</h1>
 <h3 align="center">Innovative frontend developer</h3>
 <img align = "right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" >
