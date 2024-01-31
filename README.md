@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jatin Rawat</h1>
-<h3 align="center">Innovative Game Developer </h3>
+<h3 align="center">Innovative Front End Developer </h3>
 <img align = "right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" >
 
 - 🌱 I’m currently doing projects on **Game Developer profile**
