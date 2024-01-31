@@ -3,7 +3,7 @@
 <h3 align="center">Innovative Front End Developer </h3>
 <img align = "right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" >
 
-- 🌱 I’m currently doing projects on **Game Developer profile**
+- 🌱 I’m currently doing projects on **Front End Profile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
