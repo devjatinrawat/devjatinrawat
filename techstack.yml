@@ -1,0 +1,20 @@
+repo_name: devjatinrawat/devjatinrawat
+report_id: b41b27ae7c81c5e92c7ea6f028f08c8a
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-24T11:02:05+00:00'
+requested_by: devjatinrawat
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/devjatinrawat/devjatinrawat
+  detection_source: Repo Metadata
