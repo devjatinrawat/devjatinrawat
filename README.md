@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm jatin rawat</h1>
-<h3 align="center">Html Css Developer | Frontend Developer | Ui Developer | Web designer</h3>
+<h3 align="center">Html Css Developer | Frontend Developer </h3>
 
 - 🔭 I’m currently working on **Improvising my portfolio**
 
