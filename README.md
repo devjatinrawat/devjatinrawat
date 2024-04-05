@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Jatin Rawat</h1>
-<h3 align="center"> Web Designer </h3>
+<h3 align="center"> Frontend Developer | Html Css Developer </h3>
 <img align = "right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" >
 
-- 🌱 I’m currently doing projects on **Wordpress**
+- 🌱 I’m currently doing projects on **Sass , Less , Seo principles , UI/UX Designs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
