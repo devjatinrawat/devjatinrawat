@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm jatin rawat</h1>
-<h3 align="center">Html Css Developer | Frontend Developer </h3>
+<h3 align="center"> Web Developer | Frontend Developer </h3>
 
 - 🔭 I’m currently working on **Improvising my portfolio**
 
-- 🌱 I’m currently learning **SEO principles , UI/UX design , Sass , Less**
+- 🌱 I’m currently learning **Node , Nextjs**
 
-- 💬 Ask me about **html , css , javascript , jquery , bootstrap , material ui**
+- 💬 Ask me about **html , css , javascript , jquery , bootstrap , material ui , react**
 
 - 📫 How to reach me **jatinrawat27official@gmail.com**
 <img align = "right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" >
