@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Improvising my portfolio**
 
-- 💬 Ask me about **react native , redux , typescript ,  , javascript , jquery ,html , css ,  bootstrap , material ui , react**
+- 💬 Ask me about **react native , redux , typescript ,  javascript , jquery ,html , css ,  bootstrap , material ui , react**
 
 - 📫 How to reach me **jatinrawat27official@gmail.com**
 <img align = "right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" >
