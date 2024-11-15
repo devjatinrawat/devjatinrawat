@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm jatin rawat</h1>
 <h3 align="center"> Frontend developer | Web Developer </h3>
 
-- 🔭 I’m currently working on **Improvising my portfolio**
+- 🔭 I’m currently working on *Improvising my portfolio*
 
 - 💬 Ask me about ** javascript , html , css ,  bootstrap , material ui , react**
 
